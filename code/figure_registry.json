@@ -1,0 +1,132 @@
+{
+  "Fig_1": {
+    "module": "Fig_1",
+    "status": "external_inputs_required",
+    "script": "figures/Fig_1.py"
+  },
+  "Fig_2": {
+    "module": "Fig_2",
+    "status": "analysis_tables",
+    "script": "figures/Fig_2.py"
+  },
+  "Fig_3": {
+    "module": "Fig_3",
+    "status": "analysis_tables",
+    "script": "figures/Fig_3.py"
+  },
+  "Fig_4": {
+    "module": "Fig_4",
+    "status": "analysis_tables",
+    "script": "figures/Fig_4.py"
+  },
+  "Fig_5": {
+    "module": "Fig_5",
+    "status": "analysis_tables",
+    "script": "figures/Fig_5.py"
+  },
+  "Fig_6": {
+    "module": "Fig_6",
+    "status": "analysis_tables",
+    "script": "figures/Fig_6.py"
+  },
+  "Extended_Data_Fig_1": {
+    "module": "Extended_Data_Fig_1",
+    "status": "analysis_tables",
+    "script": "figures/Extended_Data_Fig_1.py"
+  },
+  "Extended_Data_Fig_2": {
+    "module": "Extended_Data_Fig_2",
+    "status": "analysis_tables",
+    "script": "figures/Extended_Data_Fig_2.py"
+  },
+  "Extended_Data_Fig_3": {
+    "module": "Extended_Data_Fig_3",
+    "status": "analysis_tables",
+    "script": "figures/Extended_Data_Fig_3.py"
+  },
+  "Extended_Data_Fig_4": {
+    "module": "Extended_Data_Fig_4",
+    "status": "analysis_tables",
+    "script": "figures/Extended_Data_Fig_4.py"
+  },
+  "Extended_Data_Fig_5": {
+    "module": "Extended_Data_Fig_5",
+    "status": "analysis_tables",
+    "script": "figures/Extended_Data_Fig_5.py"
+  },
+  "Extended_Data_Fig_6": {
+    "module": "Extended_Data_Fig_6",
+    "status": "analysis_tables",
+    "script": "figures/Extended_Data_Fig_6.py"
+  },
+  "Extended_Data_Fig_7": {
+    "module": "Extended_Data_Fig_7",
+    "status": "external_inputs_required",
+    "script": "figures/Extended_Data_Fig_7.py"
+  },
+  "Supplementary_Fig_S1": {
+    "module": "Supplementary_Fig_S1",
+    "status": "external_inputs_required",
+    "script": "figures/Supplementary_Fig_S1.py"
+  },
+  "Supplementary_Fig_S2": {
+    "module": "Supplementary_Fig_S2",
+    "status": "external_inputs_required",
+    "script": "figures/Supplementary_Fig_S2.py"
+  },
+  "Supplementary_Fig_S3": {
+    "module": "Supplementary_Fig_S3",
+    "status": "external_inputs_required",
+    "script": "figures/Supplementary_Fig_S3.py"
+  },
+  "Supplementary_Fig_S4": {
+    "module": "Supplementary_Fig_S4",
+    "status": "external_inputs_required",
+    "script": "figures/Supplementary_Fig_S4.py"
+  },
+  "Supplementary_Fig_S5": {
+    "module": "Supplementary_Fig_S5",
+    "status": "external_inputs_required",
+    "script": "figures/Supplementary_Fig_S5.py"
+  },
+  "Supplementary_Fig_S6": {
+    "module": "Supplementary_Fig_S6",
+    "status": "external_inputs_required",
+    "script": "figures/Supplementary_Fig_S6.py"
+  },
+  "Supplementary_Fig_S7": {
+    "module": "Supplementary_Fig_S7",
+    "status": "external_inputs_required",
+    "script": "figures/Supplementary_Fig_S7.py"
+  },
+  "Supplementary_Fig_S8": {
+    "module": "Supplementary_Fig_S8",
+    "status": "external_walking_configuration_required",
+    "script": "figures/Supplementary_Fig_S8.py"
+  },
+  "Supplementary_Fig_S9": {
+    "module": "Supplementary_Fig_S9",
+    "status": "external_inputs_required",
+    "script": "figures/Supplementary_Fig_S9.py"
+  },
+  "Supplementary_Fig_S10": {
+    "module": "Supplementary_Fig_S10",
+    "status": "analysis_tables",
+    "script": "figures/Supplementary_Fig_S10.py"
+  },
+  "Supplementary_Fig_S11": {
+    "module": "Supplementary_Fig_S11",
+    "status": "external_inputs_required",
+    "script": "figures/Supplementary_Fig_S11.py"
+  },
+  "Supplementary_Fig_S12": {
+    "module": "Supplementary_Fig_S12",
+    "status": "external_inputs_required",
+    "script": "figures/Supplementary_Fig_S12.py"
+  },
+  "Supplementary_Fig_S13": {
+    "module": "Supplementary_Fig_S13",
+    "status": "external_inputs_required",
+    "script": "figures/Supplementary_Fig_S13.py"
+  }
+}
