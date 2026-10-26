@@ -40,24 +40,6 @@ Filter the cohort, compare North–South distributions, explore correlations and
 
 The website catalog contains **5,905 geolocated records**; the manuscript’s valid study cohort contains **5,880 cities**. Counts can differ further by measure and paired-data availability. Screenshots show the live interface and retain the displayed mapping attribution.
 
-## Research at a glance
-
-| Global perception patterns · Fig. 2 | Core–expansion disparities · Fig. 4 |
-|---|---|
-| [![Global patterns of emotional livability and six perceptions](docs/assets/research-global-patterns.png)](docs/assets/research-global-patterns.png) | [![Core–expansion contrasts and perception profiles](docs/assets/research-core-expansion.png)](docs/assets/research-core-expansion.png) |
-| [Plotting implementation](code/figures/Fig_2.py) | [Plotting implementation](code/figures/Fig_4.py) |
-
-<details>
-<summary><b>Environmental associations · Fig. 5</b></summary>
-
-![Environmental associations, variable importance and nonlinear response functions](docs/assets/research-environmental-associations.png)
-
-[Plotting implementation](code/figures/Fig_5.py). These analyses describe statistical associations and do not establish causal effects.
-
-</details>
-
-[Browse all 26 figure entries →](docs/FIGURES.md)
-
 ## Download and reproduce
 
 **Download the attached [perceptatlas-research-v1.0.0.zip](https://github.com/DongXuEco/perceptatlas/releases/download/v1.0.0/perceptatlas-research-v1.0.0.zip) from the release.** It includes both the code and all 188 packaged data files. GitHub’s automatic **Source code** archive contains only the browsable repository, so it is not the data-inclusive package.
