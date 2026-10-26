@@ -2,7 +2,7 @@
 
 ## Obtain the data-inclusive package
 
-Download [perceptatlas-research-v1.0.0.zip](https://github.com/DongXuEco/perceptatlas/releases/download/v1.0.0/perceptatlas-research-v1.0.0.zip). Extract it so that `code/` and `data/` share the same parent directory. The release includes 188 unchanged data files from the prepared study package. The ordinary repository contains code, documentation and previews; it does not contain those large numerical tables.
+Download [perceptatlas-research-v1.0.0.zip](https://github.com/DongXuEco/perceptatlas/releases/download/v1.0.0/perceptatlas-research-v1.0.0.zip). Extract it so that `code/` and `data/` share the same parent directory. The release includes 188 unchanged data files from the prepared study package. The ordinary repository contains code, documentation and platform screenshots; it does not contain those large numerical tables.
 
 The release’s `SHA256SUMS.txt` checks the full ZIP. Inside the ZIP, `RELEASE_MANIFEST.csv` records the size and SHA-256 digest of each payload file. The historical `file_inventory.csv` describes the original study package, not the later documentation or screenshot additions.
 
