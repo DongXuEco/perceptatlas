@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this version when reusing the analysis code or source data."
+type: software
+title: "PerceptAtlas: global urban emotional livability, analysis code and source data"
+authors:
+  - family-names: Xu
+    given-names: Dong
+version: 1.0.0
+date-released: 2026-10-26
+url: "https://github.com/DongXuEco/perceptatlas"
+repository-code: "https://github.com/DongXuEco/perceptatlas"
+license: MIT
+keywords:
+  - urban perception
+  - emotional livability
+  - spatial inequality
+  - street-view imagery
+  - reproducible research
+abstract: "Analysis and plotting code, processed source tables, validation records and figure mappings accompanying the manuscript Quantifying and mapping global emotional livability. The interactive atlas is available at https://perceptatlas.com/."
