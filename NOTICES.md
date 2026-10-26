@@ -14,9 +14,9 @@ Platform screenshots retain the map attribution displayed in the application: Op
 
 The original source attributions for external survey and predictor inputs remain applicable. Consult Supplementary Table S3 and the per-figure source tables. The CC BY grant above covers author-generated results and transformations, not exclusive rights over independently supplied third-party material.
 
-## Screenshots and figure previews
+## Platform screenshots
 
-Website screenshots and manuscript figure previews illustrate this research project. Institutional names, emblems and other third-party marks shown in screenshots are excluded from the MIT and CC BY grants. The manuscript DOCX, raw street-view photographs and original gridded perception products are not distributed here.
+Website screenshots illustrate the PerceptAtlas platform. Institutional names, emblems and other third-party marks shown in screenshots are excluded from the MIT and CC BY grants. The manuscript DOCX, raw street-view photographs and original gridded perception products are not distributed here.
 
 ## Dependencies
 
